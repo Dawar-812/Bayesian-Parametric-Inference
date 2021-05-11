@@ -1,1 +1,1 @@
-# Bayesian-Paranetric-Inference
+# Bayesian-Parametric-Inference
